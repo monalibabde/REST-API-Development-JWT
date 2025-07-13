@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Uploads folder for PDF files (RHP/DRHP)
+uploads/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional IDE settings (if you're using VS Code or others)
+.vscode/
+.idea/
